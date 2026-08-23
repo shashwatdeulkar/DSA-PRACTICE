@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shashwatdeulkar/DSA-PRACTICE/tree/master/0001-two-sum) |
+| [0054-spiral-matrix](https://github.com/shashwatdeulkar/DSA-PRACTICE/tree/master/0054-spiral-matrix) |
 | [0169-majority-element](https://github.com/shashwatdeulkar/DSA-PRACTICE/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/shashwatdeulkar/DSA-PRACTICE/tree/master/0189-rotate-array) |
 ## Hash Table
@@ -36,4 +37,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/shashwatdeulkar/DSA-PRACTICE/tree/master/0189-rotate-array) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/shashwatdeulkar/DSA-PRACTICE/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/shashwatdeulkar/DSA-PRACTICE/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
