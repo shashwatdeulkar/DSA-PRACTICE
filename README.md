@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/shashwatdeulkar/DSA-PRACTICE/tree/master/0189-rotate-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shashwatdeulkar/DSA-PRACTICE/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/shashwatdeulkar/DSA-PRACTICE/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3875-construct-uniform-parity-array-i](https://github.com/shashwatdeulkar/DSA-PRACTICE/tree/master/3875-construct-uniform-parity-array-i) |
 | [3996-even-number-of-knight-moves](https://github.com/shashwatdeulkar/DSA-PRACTICE/tree/master/3996-even-number-of-knight-moves) |
 ## Hash Table
 |  |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/shashwatdeulkar/DSA-PRACTICE/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/shashwatdeulkar/DSA-PRACTICE/tree/master/0189-rotate-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shashwatdeulkar/DSA-PRACTICE/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3875-construct-uniform-parity-array-i](https://github.com/shashwatdeulkar/DSA-PRACTICE/tree/master/3875-construct-uniform-parity-array-i) |
 | [3996-even-number-of-knight-moves](https://github.com/shashwatdeulkar/DSA-PRACTICE/tree/master/3996-even-number-of-knight-moves) |
 ## Two Pointers
 |  |
