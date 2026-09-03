@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/shashwatdeulkar/DSA-PRACTICE/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/shashwatdeulkar/DSA-PRACTICE/tree/master/0013-roman-to-integer) |
+| [0141-linked-list-cycle](https://github.com/shashwatdeulkar/DSA-PRACTICE/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/shashwatdeulkar/DSA-PRACTICE/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/shashwatdeulkar/DSA-PRACTICE/tree/master/0242-valid-anagram) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/shashwatdeulkar/DSA-PRACTICE/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/shashwatdeulkar/DSA-PRACTICE/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/shashwatdeulkar/DSA-PRACTICE/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/shashwatdeulkar/DSA-PRACTICE/tree/master/0088-merge-sorted-array) |
+| [0141-linked-list-cycle](https://github.com/shashwatdeulkar/DSA-PRACTICE/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/shashwatdeulkar/DSA-PRACTICE/tree/master/0189-rotate-array) |
 ## Matrix
 |  |
@@ -108,4 +110,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shashwatdeulkar/DSA-PRACTICE/tree/master/0042-trapping-rain-water) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/shashwatdeulkar/DSA-PRACTICE/tree/master/0141-linked-list-cycle) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/shashwatdeulkar/DSA-PRACTICE/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
