@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/shashwatdeulkar/DSA-PRACTICE/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/shashwatdeulkar/DSA-PRACTICE/tree/master/0189-rotate-array) |
+| [0292-nim-game](https://github.com/shashwatdeulkar/DSA-PRACTICE/tree/master/0292-nim-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shashwatdeulkar/DSA-PRACTICE/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3875-construct-uniform-parity-array-i](https://github.com/shashwatdeulkar/DSA-PRACTICE/tree/master/3875-construct-uniform-parity-array-i) |
 | [3996-even-number-of-knight-moves](https://github.com/shashwatdeulkar/DSA-PRACTICE/tree/master/3996-even-number-of-knight-moves) |
@@ -122,4 +123,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/shashwatdeulkar/DSA-PRACTICE/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/shashwatdeulkar/DSA-PRACTICE/tree/master/0142-linked-list-cycle-ii) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/shashwatdeulkar/DSA-PRACTICE/tree/master/0292-nim-game) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/shashwatdeulkar/DSA-PRACTICE/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/shashwatdeulkar/DSA-PRACTICE/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/shashwatdeulkar/DSA-PRACTICE/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/shashwatdeulkar/DSA-PRACTICE/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
