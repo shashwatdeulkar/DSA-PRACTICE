@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/shashwatdeulkar/DSA-PRACTICE/tree/master/0189-rotate-array) |
 | [0292-nim-game](https://github.com/shashwatdeulkar/DSA-PRACTICE/tree/master/0292-nim-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shashwatdeulkar/DSA-PRACTICE/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3870-count-commas-in-range](https://github.com/shashwatdeulkar/DSA-PRACTICE/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/shashwatdeulkar/DSA-PRACTICE/tree/master/3875-construct-uniform-parity-array-i) |
 | [3996-even-number-of-knight-moves](https://github.com/shashwatdeulkar/DSA-PRACTICE/tree/master/3996-even-number-of-knight-moves) |
 ## Two Pointers
