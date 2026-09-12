@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/shashwatdeulkar/DSA-PRACTICE/tree/master/0189-rotate-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/shashwatdeulkar/DSA-PRACTICE/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shashwatdeulkar/DSA-PRACTICE/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/shashwatdeulkar/DSA-PRACTICE/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/shashwatdeulkar/DSA-PRACTICE/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/shashwatdeulkar/DSA-PRACTICE/tree/master/3875-construct-uniform-parity-array-i) |
 | [3996-even-number-of-knight-moves](https://github.com/shashwatdeulkar/DSA-PRACTICE/tree/master/3996-even-number-of-knight-moves) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/shashwatdeulkar/DSA-PRACTICE/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/shashwatdeulkar/DSA-PRACTICE/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/shashwatdeulkar/DSA-PRACTICE/tree/master/0242-valid-anagram) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/shashwatdeulkar/DSA-PRACTICE/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/shashwatdeulkar/DSA-PRACTICE/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Divide and Conquer
 |  |
@@ -161,4 +163,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/shashwatdeulkar/DSA-PRACTICE/tree/master/0014-longest-common-prefix) |
+## Sliding Window
+|  |
+| ------- |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/shashwatdeulkar/DSA-PRACTICE/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 <!---LeetCode Topics End-->
