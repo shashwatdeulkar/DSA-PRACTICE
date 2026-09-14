@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/shashwatdeulkar/DSA-PRACTICE/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/shashwatdeulkar/DSA-PRACTICE/tree/master/0189-rotate-array) |
 | [0292-nim-game](https://github.com/shashwatdeulkar/DSA-PRACTICE/tree/master/0292-nim-game) |
+| [0836-rectangle-overlap](https://github.com/shashwatdeulkar/DSA-PRACTICE/tree/master/0836-rectangle-overlap) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shashwatdeulkar/DSA-PRACTICE/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3870-count-commas-in-range](https://github.com/shashwatdeulkar/DSA-PRACTICE/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/shashwatdeulkar/DSA-PRACTICE/tree/master/3871-count-commas-in-range-ii) |
@@ -168,4 +169,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/shashwatdeulkar/DSA-PRACTICE/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/shashwatdeulkar/DSA-PRACTICE/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
