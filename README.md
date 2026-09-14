@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/shashwatdeulkar/DSA-PRACTICE/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shashwatdeulkar/DSA-PRACTICE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/shashwatdeulkar/DSA-PRACTICE/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/shashwatdeulkar/DSA-PRACTICE/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/shashwatdeulkar/DSA-PRACTICE/tree/master/0054-spiral-matrix) |
 | [0088-merge-sorted-array](https://github.com/shashwatdeulkar/DSA-PRACTICE/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shashwatdeulkar/DSA-PRACTICE/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/shashwatdeulkar/DSA-PRACTICE/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/shashwatdeulkar/DSA-PRACTICE/tree/master/0169-majority-element) |
 ## Sorting
 |  |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shashwatdeulkar/DSA-PRACTICE/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/shashwatdeulkar/DSA-PRACTICE/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shashwatdeulkar/DSA-PRACTICE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Greedy
 |  |
