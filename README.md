@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shashwatdeulkar/DSA-PRACTICE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/shashwatdeulkar/DSA-PRACTICE/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/shashwatdeulkar/DSA-PRACTICE/tree/master/0189-rotate-array) |
+| [0540-single-element-in-a-sorted-array](https://github.com/shashwatdeulkar/DSA-PRACTICE/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/shashwatdeulkar/DSA-PRACTICE/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0941-valid-mountain-array](https://github.com/shashwatdeulkar/DSA-PRACTICE/tree/master/0941-valid-mountain-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/shashwatdeulkar/DSA-PRACTICE/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0540-single-element-in-a-sorted-array](https://github.com/shashwatdeulkar/DSA-PRACTICE/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/shashwatdeulkar/DSA-PRACTICE/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Ternary Search
 |  |
