@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/shashwatdeulkar/DSA-PRACTICE/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shashwatdeulkar/DSA-PRACTICE/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/shashwatdeulkar/DSA-PRACTICE/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/shashwatdeulkar/DSA-PRACTICE/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/shashwatdeulkar/DSA-PRACTICE/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/shashwatdeulkar/DSA-PRACTICE/tree/master/3875-construct-uniform-parity-array-i) |
 | [3996-even-number-of-knight-moves](https://github.com/shashwatdeulkar/DSA-PRACTICE/tree/master/3996-even-number-of-knight-moves) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/shashwatdeulkar/DSA-PRACTICE/tree/master/0292-nim-game) |
 | [0836-rectangle-overlap](https://github.com/shashwatdeulkar/DSA-PRACTICE/tree/master/0836-rectangle-overlap) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shashwatdeulkar/DSA-PRACTICE/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/shashwatdeulkar/DSA-PRACTICE/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3870-count-commas-in-range](https://github.com/shashwatdeulkar/DSA-PRACTICE/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/shashwatdeulkar/DSA-PRACTICE/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/shashwatdeulkar/DSA-PRACTICE/tree/master/3875-construct-uniform-parity-array-i) |
