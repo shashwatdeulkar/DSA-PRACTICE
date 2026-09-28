@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/shashwatdeulkar/DSA-PRACTICE/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/shashwatdeulkar/DSA-PRACTICE/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/shashwatdeulkar/DSA-PRACTICE/tree/master/0242-valid-anagram) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shashwatdeulkar/DSA-PRACTICE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/shashwatdeulkar/DSA-PRACTICE/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/shashwatdeulkar/DSA-PRACTICE/tree/master/0042-trapping-rain-water) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shashwatdeulkar/DSA-PRACTICE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/shashwatdeulkar/DSA-PRACTICE/tree/master/0020-valid-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shashwatdeulkar/DSA-PRACTICE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Trie
 |  |
 | ------- |
