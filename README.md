@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/shashwatdeulkar/DSA-PRACTICE/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/shashwatdeulkar/DSA-PRACTICE/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/shashwatdeulkar/DSA-PRACTICE/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/shashwatdeulkar/DSA-PRACTICE/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/shashwatdeulkar/DSA-PRACTICE/tree/master/0189-rotate-array) |
 | [0292-nim-game](https://github.com/shashwatdeulkar/DSA-PRACTICE/tree/master/0292-nim-game) |
 | [0836-rectangle-overlap](https://github.com/shashwatdeulkar/DSA-PRACTICE/tree/master/0836-rectangle-overlap) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shashwatdeulkar/DSA-PRACTICE/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/shashwatdeulkar/DSA-PRACTICE/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/shashwatdeulkar/DSA-PRACTICE/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shashwatdeulkar/DSA-PRACTICE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Greedy
 |  |
@@ -257,4 +259,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/shashwatdeulkar/DSA-PRACTICE/tree/master/0094-binary-tree-inorder-traversal) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/shashwatdeulkar/DSA-PRACTICE/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
