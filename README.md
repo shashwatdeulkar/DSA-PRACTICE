@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/shashwatdeulkar/DSA-PRACTICE/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/shashwatdeulkar/DSA-PRACTICE/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/shashwatdeulkar/DSA-PRACTICE/tree/master/0042-trapping-rain-water) |
+| [0051-n-queens](https://github.com/shashwatdeulkar/DSA-PRACTICE/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/shashwatdeulkar/DSA-PRACTICE/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/shashwatdeulkar/DSA-PRACTICE/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/shashwatdeulkar/DSA-PRACTICE/tree/master/0066-plus-one) |
@@ -269,4 +270,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shashwatdeulkar/DSA-PRACTICE/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0051-n-queens](https://github.com/shashwatdeulkar/DSA-PRACTICE/tree/master/0051-n-queens) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/shashwatdeulkar/DSA-PRACTICE/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
